@@ -20,12 +20,12 @@ Check out my page: [Here](https://1sallyb.github.io)
    - Simple Adlib program.
 
 ### 🔨 Tools
-- Languages: Python, Java, C++, R
-- Frameworks: Scikit-learn, NumPy, Pandas, Seaborn, Keras, Matplotlib
+- **Languages**: Python, Java, C++, R
+- **Frameworks**: Scikit-learn, NumPy, Pandas, Seaborn, Keras, Matplotlib
 
 ### 📌 Skills
-- Technical: Data Visualization, Data Exploration, Data Analysis, Data cleansing, Data modeling, Statistical programming
-- Soft: Communication, Curiosity, Critical Thinking, Task Management, Professionalism, Adaptability, Leadership
+- **Technical**: Data Visualization, Data Exploration, Data Analysis, Data cleansing, Data modeling, Statistical programming
+- **Soft**: Communication, Curiosity, Critical Thinking, Task Management, Professionalism, Adaptability, Leadership
 
 ### 🔌 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/sallybrumage/)
