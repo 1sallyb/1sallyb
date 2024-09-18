@@ -15,8 +15,8 @@ Check out my page: [Here](https://1sallyb.github.io)
   
 **Data Modeling Projects:**
 1. [Customer Churn Prediction](https://github.com/1sallyb/Project3/blob/main/ChurnModeling.ipynb)
-  -  Predict customer churn for a major cell phone company to reduce advertisment cost by $3,500 per churn.
-  -  Used logistic regression, decision trees, random forest, and ensemble methods.
+- Predict customer churn for a major cell phone company to reduce advertisment cost by $3,500 per churn.
+- Used logistic regression, decision trees, random forest, and ensemble methods.
 
 **Other Projects:**
 1. [Password Validator](https://github.com/1sallyb/PasswordValidator)
