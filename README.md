@@ -10,13 +10,17 @@ Check out my page: [Here](https://1sallyb.github.io)
 **Data Exploration Projects:**
 1. [Student Anxiety on Final Exam Score](https://github.com/1sallyb/AnxietyEDA)
    - Visualize the relationship between student anxiety levels and the final exam score.
-3. [Exploratory Data Analysis on Top World Companies](https://github.com/1sallyb/TopCompanyRatings)
+2. [Exploratory Data Analysis on Top World Companies](https://github.com/1sallyb/TopCompanyRatings)
    - Explore what makes top world companies highly rated by employees.
+**Data Modeling Projects:**
+1. [Customer Churn Prediction](ChurnModeling.ipynb)
+  - Predict customer churn for a major cell phone company to reduce advertisment cost by $3,500 per churn.
+  - Used logistic regression, decision trees, random forest, and ensemble methods.
 
 **Other Projects:**
 1. [Password Validator](https://github.com/1sallyb/PasswordValidator)
    - Java program that has the user input a password until it satisfies all requirements.
-3. [Flask Project](https://github.com/1sallyb/FlaskProject)
+2. [Flask Project](https://github.com/1sallyb/FlaskProject)
    - Simple Adlib program.
 
 ### 🔨 Tools
