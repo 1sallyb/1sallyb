@@ -3,10 +3,9 @@ Welcome to my portfolio!
 
 My name is **Sally** and I am completing a Bachelors Degree in Data Science at the University of Central Oklahoma with skills in data analysis and reporting, interpretating, presenting, and data modeling.
 
-
-### 📊 Projects
 Check out my page: [Here](https://1sallyb.github.io)
 
+### 📊 Projects
 **Data Exploration Projects:**
 1. [Student Anxiety on Final Exam Score](https://github.com/1sallyb/AnxietyEDA)
    - Visualize the relationship between student anxiety levels and the final exam score.
